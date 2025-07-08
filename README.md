@@ -74,11 +74,11 @@ Metrics evaluated include:
 ```bash
 git clone https://github.com/aei6973/Nanosatellite-Swarm-Resilience.git
 cd Nanosatellite-Swarm-Resilience
-
+ ```` 
 2. Launch the notebook:
 ```bash
 jupyter notebook simulation.ipynb
-
+ ```` 
 3. Edit simulation parameters (number of nodes, failure type, clustering method...) in the notebook.
 
 4. Run the cells and analyze visualizations and metrics.
