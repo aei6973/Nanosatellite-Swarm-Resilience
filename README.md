@@ -85,9 +85,9 @@ jupyter notebook simulation.ipynb
 ---
 
 ## Authors
-Aicha ELIDRISSI
-Yasmina Abou-El-Abbas
-
+- Aicha ELIDRISSI
+- Yasmina Abou-El-Abbas
+---
 Supervised by: Dr. Riadh Dhaou
 INP ENSEEIHT – Department of Computer Science and Telecommunications
 
