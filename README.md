@@ -82,6 +82,7 @@ jupyter notebook simulation.ipynb
 3. Edit simulation parameters (number of nodes, failure type, clustering method...) in the notebook.
 
 4. Run the cells and analyze visualizations and metrics.
+---
 
 ## Authors
 Aicha ELIDRISSI
